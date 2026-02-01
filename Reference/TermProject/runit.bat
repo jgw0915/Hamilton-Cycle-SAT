@@ -1,0 +1,1 @@
+for /r %%i in (test-cases2\*.cnf) do python3 CDCL.py "%%i"
